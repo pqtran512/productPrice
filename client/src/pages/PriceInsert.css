@@ -1,0 +1,177 @@
+.price-insert {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.price-insert-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: var(--background-color);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.price-insert-header h2 {
+  margin: 0;
+  font-size: 24px;
+  color: var(--text-color);
+}
+
+.product-data-info {
+  font-size: 12px;
+  color: var(--text-color);
+  opacity: 0.7;
+}
+
+.price-insert-content {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+.product-price-table-container {
+  flex: 0 0 35%;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.price-input-section {
+  flex: 0 0 65%;
+  padding: 20px;
+  overflow-y: auto;
+  margin-left: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group h3 {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: var(--text-color);
+}
+
+.form-group.box-group {
+  display: flex;
+  gap: 20px;
+}
+.form-group.box-group input {
+  width: 100px;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  font-size: 14px;
+  resize: vertical;
+}
+
+.action-button {
+  display: block;
+  padding: 12px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  color: white;
+  transition: background-color 0.2s ease;
+  background-color: var(--primary-color);
+}
+.action-button.btn1 {
+  width: 150px;
+  margin-inline: auto;
+}
+.action-button.btn2 {
+  width: 91%;
+}
+.action-button.btn1:hover {
+  background-color: var(--active-btn-color);
+}
+.action-button.btn2:hover {
+  background-color: var(--active-btn-color);
+}
+
+.table-container {
+  margin-top: 20px;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+
+th {
+  background-color: var(--background-color);
+  font-weight: 600;
+  color: var(--text-color);
+}
+
+tr:hover {
+  background-color: var(--hover-color);
+}
+
+input[type="number"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.brand-table,
+.warranty-table,
+.ngoai-hinh-table {
+  margin-top: 10px;
+}
+
+.brand-table caption,
+.warranty-table caption,
+.ngoai-hinh-table caption {
+  font-weight: 600;
+  margin-bottom: 5px;
+  text-align: left;
+  color: var(--text-color);
+}
+
+/* New styles for parsed-prices-table */
+.parsed-prices-table {
+  background-color: #e6f3ff;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.parsed-prices-table th {
+  background-color: #cce5ff;
+  color: #333;
+}
+
+.parsed-prices-table tr:hover {
+  background-color: #d9ecff;
+}
+
+@media (max-width: 768px) {
+  .price-insert-content {
+    flex-direction: column;
+  }
+
+  .product-price-table-container,
+  .price-input-section {
+    width: 100%;
+    flex: none;
+    border-right: none;
+    border-bottom: 1px solid var(--border-color);
+  }
+}

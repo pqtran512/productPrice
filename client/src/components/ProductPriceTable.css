@@ -1,0 +1,60 @@
+.product-price-table-container {
+  border-right: 1px solid #ccc;
+  border-radius: 4px;
+  /* max-height: 400px; */
+  overflow-y: auto;
+}
+
+.product-price-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.product-price-table th,
+.product-price-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+.product-price-table th {
+  background-color: #f2f2f2;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  font-weight: bold;
+}
+
+.product-price-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.product-price-table tr:hover {
+  background-color: #f5f5f5;
+  cursor: pointer;
+}
+
+.selected-row {
+  background-color: #e0e0e0 !important;
+}
+
+/* Styles for the search bar */
+.search-bar {
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+@media (max-width: 768px) {
+  .product-price-table th,
+  .product-price-table td {
+    padding: 8px;
+  }
+}

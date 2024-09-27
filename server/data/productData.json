@@ -1,0 +1,226 @@
+{
+  "timestamp": "2024-09-27T08:17:10.883Z",
+  "version": "1.0.27",
+  "Sản phẩm": [
+    {
+      "Dòng": "GTX750Ti",
+      "Giá Base": "500",
+      "Giá hàng hư hỏng": "280"
+    },
+    {
+      "Dòng": "GT 1030",
+      "Giá Base": "450",
+      "Giá hàng hư hỏng": "400"
+    },
+    {
+      "Dòng": "GTX 1050 2GB",
+      "Giá Base": "700",
+      "Giá hàng hư hỏng": "380"
+    },
+    {
+      "Dòng": "GTX 1050Ti 4GB",
+      "Giá Base": "1,200",
+      "Giá hàng hư hỏng": "750"
+    },
+    {
+      "Dòng": "GTX 1060 3GB",
+      "Giá Base": "1,400",
+      "Giá hàng hư hỏng": "380"
+    },
+    {
+      "Dòng": "GTX 1060 6GB",
+      "Giá Base": "1,500",
+      "Giá hàng hư hỏng": "650"
+    },
+    {
+      "Dòng": "GTX 1650",
+      "Giá Base": "1,400",
+      "Giá hàng hư hỏng": "950"
+    },
+    {
+      "Dòng": "GTX 1660",
+      "Giá Base": "1,800",
+      "Giá hàng hư hỏng": "1,250"
+    },
+    {
+      "Dòng": "GTX 1660 Super",
+      "Giá Base": "2,300",
+      "Giá hàng hư hỏng": "1,250"
+    },
+    {
+      "Dòng": "GTX 1070 8GB",
+      "Giá Base": "1,700",
+      "Giá hàng hư hỏng": "500"
+    },
+    {
+      "Dòng": "GTX 1070Ti 8GB",
+      "Giá Base": "2,000",
+      "Giá hàng hư hỏng": "500"
+    },
+    {
+      "Dòng": "GTX 1080 8GB",
+      "Giá Base": "2,200",
+      "Giá hàng hư hỏng": "500"
+    },
+    {
+      "Dòng": "GTX 1080Ti 11GB",
+      "Giá Base": "2,600",
+      "Giá hàng hư hỏng": "530"
+    },
+    {
+      "Dòng": "RTX 2060",
+      "Giá Base": "2,800",
+      "Giá hàng hư hỏng": "1,300"
+    },
+    {
+      "Dòng": "RTX 2060 Super",
+      "Giá Base": "3,000",
+      "Giá hàng hư hỏng": "1,300"
+    },
+    {
+      "Dòng": "RTX 2070",
+      "Giá Base": "2,600",
+      "Giá hàng hư hỏng": "1,300"
+    },
+    {
+      "Dòng": "RTX 2070 Super",
+      "Giá Base": "2,700",
+      "Giá hàng hư hỏng": "1,300"
+    },
+    {
+      "Dòng": "RTX 2080",
+      "Giá Base": "3,000",
+      "Giá hàng hư hỏng": "1,400"
+    },
+    {
+      "Dòng": "RTX 2080Ti",
+      "Giá Base": "3,300",
+      "Giá hàng hư hỏng": "1,400"
+    },
+    {
+      "Dòng": "RTX 3050",
+      "Giá Base": "",
+      "Giá hàng hư hỏng": ""
+    },
+    {
+      "Dòng": "RTX 3060",
+      "Giá Base": "4,400",
+      "Giá hàng hư hỏng": "1,700"
+    },
+    {
+      "Dòng": "RTX 3060Ti",
+      "Giá Base": "4,700",
+      "Giá hàng hư hỏng": "1,800"
+    },
+    {
+      "Dòng": "RTX 3070",
+      "Giá Base": "5,000",
+      "Giá hàng hư hỏng": "1,850"
+    },
+    {
+      "Dòng": "RTX 3070Ti",
+      "Giá Base": "6,800",
+      "Giá hàng hư hỏng": "1,850"
+    },
+    {
+      "Dòng": "RTX 3080 10GB",
+      "Giá Base": "7,800",
+      "Giá hàng hư hỏng": ""
+    },
+    {
+      "Dòng": "RTX 3080 12GB",
+      "Giá Base": "",
+      "Giá hàng hư hỏng": ""
+    },
+    {
+      "Dòng": "RTX 3080Ti",
+      "Giá Base": "",
+      "Giá hàng hư hỏng": ""
+    },
+    {
+      "Dòng": "RTX 3090",
+      "Giá Base": "",
+      "Giá hàng hư hỏng": ""
+    },
+    {
+      "Dòng": "RTX 3090Ti",
+      "Giá Base": "",
+      "Giá hàng hư hỏng": ""
+    },
+    {
+      "Dòng": "RX 470 4GB",
+      "Giá Base": "250",
+      "Giá hàng hư hỏng": "280"
+    },
+    {
+      "Dòng": "RX 470 8GB",
+      "Giá Base": "350",
+      "Giá hàng hư hỏng": "420"
+    },
+    {
+      "Dòng": "RX 570 4GB",
+      "Giá Base": "250",
+      "Giá hàng hư hỏng": "280"
+    },
+    {
+      "Dòng": "RX 570 8GB",
+      "Giá Base": "350",
+      "Giá hàng hư hỏng": "420"
+    },
+    {
+      "Dòng": "RX 580 4GB",
+      "Giá Base": "250",
+      "Giá hàng hư hỏng": "280"
+    },
+    {
+      "Dòng": "RX 580 8GB",
+      "Giá Base": "350",
+      "Giá hàng hư hỏng": "420"
+    },
+    {
+      "Dòng": "RX 5500XT 8G",
+      "Giá Base": "800",
+      "Giá hàng hư hỏng": ""
+    },
+    {
+      "Dòng": "RX 5600XT",
+      "Giá Base": "1,200",
+      "Giá hàng hư hỏng": "500"
+    },
+    {
+      "Dòng": "RX 5700XT 8G",
+      "Giá Base": "2,000",
+      "Giá hàng hư hỏng": "600"
+    },
+    {
+      "Dòng": "RX 6600",
+      "Giá Base": "2,500",
+      "Giá hàng hư hỏng": "700"
+    },
+    {
+      "Dòng": "RX 6600XT",
+      "Giá Base": "3,200",
+      "Giá hàng hư hỏng": "700"
+    },
+    {
+      "Dòng": "RX 6700XT",
+      "Giá Base": "4,200",
+      "Giá hàng hư hỏng": "800"
+    }
+  ],
+  "Brand": {
+    "Brand tier 1": "1.08",
+    "Brand tier 2": "1.16",
+    "Brand tier 3": "1"
+  },
+  "Bảo hành": {
+    ">= 12 tháng": "1.12",
+    "< 12 tháng": "1.02",
+    "Hết": "1"
+  },
+  "Ngoại hình": {
+    "Mới, đẹp": "1.02",
+    "Trung bình": "1"
+  },
+  "Có box RTX 3060 trở lên": "70"
+}
